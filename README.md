@@ -1,4 +1,4 @@
-# Taller 1 Semiario de Progmación - Grupo 5
+## Taller 1 Semiario de Programación - Grupo 5
 
 En este repositorio se encuentra el desarrollo del Taller 1 d la materia Seminario de Programación.
 
