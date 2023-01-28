@@ -11,3 +11,7 @@ Katherine Morantes
 
 Yamit Amaya
 
+NOTA: la base de datos completa con la cual se desarrolló este taller se puede descargar del siguiente link:
+ 
+ https://uexternadoedu-my.sharepoint.com/:f:/g/personal/yamit_amaya_est_uexternado_edu_co/ElebtK-h0R9Jii4ef6XLCMsBViR_ZQPAxPQfWTHoi02BSw?e=VybR00
+ 
